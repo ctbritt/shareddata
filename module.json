@@ -25,6 +25,72 @@
       }
     },
     {
+      "name": "dsr-tables",
+      "label": "DSR tables",
+      "path": "packs/dsr-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dsr-items",
+      "label": "DSR Items",
+      "path": "packs/dsr-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dsr-journals",
+      "label": "DSR Journals",
+      "path": "packs/dsr-journals",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dsr-actors",
+      "label": "DSR Actors",
+      "path": "packs/dsr-actors",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-items",
+      "label": "DDB Items",
+      "path": "packs/ddb-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dsr-scenes",
+      "label": "DSR Scenes",
+      "path": "packs/dsr-scenes",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "ddb-races",
       "label": "DDB Races",
       "path": "packs/ddb-races",

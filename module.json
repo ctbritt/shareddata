@@ -1,5 +1,20 @@
 {
+  "id": "shareddata",
   "title": "SharedData",
+  "version": "12.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Chris Allbritton",
+      "email": "callbritton@mac.com",
+      "url": "https://github.com/ctbritt",
+      "flags": {}
+    }
+  ],
   "description": "Sharing data across worlds",
   "packs": [
     {
@@ -517,25 +532,5 @@
       },
       "system": "dnd5e"
     }
-  ],
-  "id": "shareddata",
-  "authors": [
-    {
-      "name": "Chris Allbritton",
-      "email": "callbritton@mac.com",
-      "url": "https://github.com/ctbritt"
-    }
-  ],
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12",
-    "maximum": "12"
-  },
-  "version": "12.0.0",
-  "manifestPlusVersion": "1.2.0",
-  "url": "https://github.com/ctbritt/shareddata",
-  "manifest": "https://github.com/ctbritt/shareddata/releases/latest/download/module.json",
-  "download": "https://github.com/ctbritt/shareddata/releases/download/v12.0.0/module.zip",
-  "license": "LICENSE",
-  "readme": "README.md"
+  ]
 }

@@ -1,8 +1,3 @@
-2025/07/21-14:53:31.468145 16f1e7000 Recovering log #2302
-2025/07/21-14:53:31.469020 16f1e7000 Delete type=0 #2302
-2025/07/21-14:53:31.469085 16f1e7000 Delete type=3 #2300
-2025/07/21-15:07:45.828818 16fb0b000 Level-0 table #2307: started
-2025/07/21-15:07:45.828925 16fb0b000 Level-0 table #2307: 0 bytes OK
-2025/07/21-15:07:45.829096 16fb0b000 Delete type=0 #2305
-2025/07/21-15:07:45.829400 16fb0b000 Manual compaction at level-0 from '!actors!ddbAarAer5194864' @ 72057594037927935 : 1 .. '!folders!zGprTDprbHZoMO7b' @ 0 : 0; will stop at (end)
-2025/07/21-15:07:45.829423 16fb0b000 Manual compaction at level-1 from '!actors!ddbAarAer5194864' @ 72057594037927935 : 1 .. '!folders!zGprTDprbHZoMO7b' @ 0 : 0; will stop at (end)
+2025/07/21-15:07:55.330159 16f9f3000 Recovering log #2306
+2025/07/21-15:07:55.330940 16f9f3000 Delete type=3 #2304
+2025/07/21-15:07:55.331000 16f9f3000 Delete type=0 #2306

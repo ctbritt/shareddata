@@ -1,25 +1,3 @@
-2025/07/21-14:53:31.119408 16e9db000 Recovering log #11067
-2025/07/21-14:53:31.120166 16e9db000 Delete type=3 #11065
-2025/07/21-14:53:31.120244 16e9db000 Delete type=0 #11067
-2025/07/21-15:05:30.723533 16fb0b000 Level-0 table #11072: started
-2025/07/21-15:05:30.788367 16fb0b000 Level-0 table #11072: 25029452 bytes OK
-2025/07/21-15:05:30.789418 16fb0b000 Delete type=0 #11070
-2025/07/21-15:07:45.883868 16fb0b000 Level-0 table #11074: started
-2025/07/21-15:07:45.965987 16fb0b000 Level-0 table #11074: 25008664 bytes OK
-2025/07/21-15:07:45.967052 16fb0b000 Delete type=0 #11071
-2025/07/21-15:07:45.967763 16fb0b000 Manual compaction at level-0 from '!adventures!0oqG5oXu4dREnEYx' @ 72057594037927935 : 1 .. '!adventures!zgf4K3U3eshaB1cz' @ 0 : 0; will stop at '!adventures!ePdsymbg2msCzhdK' @ 30 : 0
-2025/07/21-15:07:45.967769 16fb0b000 Compacting 1@0 + 0@1 files
-2025/07/21-15:07:46.026801 16fb0b000 Generated table #11075@0: 1 keys, 25008566 bytes
-2025/07/21-15:07:46.027012 16fb0b000 Generated table #11076@0: 1 keys, 202 bytes
-2025/07/21-15:07:46.027020 16fb0b000 Compacted 1@0 + 0@1 files => 25008768 bytes
-2025/07/21-15:07:46.027113 16fb0b000 compacted to: files[ 0 2 10 0 0 0 0 ]
-2025/07/21-15:07:46.027258 16fb0b000 Delete type=2 #11074
-2025/07/21-15:07:46.045402 16fb0b000 Manual compaction at level-0 from '!adventures!ePdsymbg2msCzhdK' @ 30 : 0 .. '!adventures!zgf4K3U3eshaB1cz' @ 0 : 0; will stop at (end)
-2025/07/21-15:07:46.045481 16fb0b000 Moved #11075 to level-2 25008566 bytes OK: files[ 0 1 11 0 0 0 0 ]
-2025/07/21-15:07:46.045496 16fb0b000 Manual compaction at level-1 from '!adventures!0oqG5oXu4dREnEYx' @ 72057594037927935 : 1 .. '!adventures!zgf4K3U3eshaB1cz' @ 0 : 0; will stop at '!adventures!ePdsymbg2msCzhdK' @ 30 : 0
-2025/07/21-15:07:46.045502 16fb0b000 Compacting 1@1 + 1@2 files
-2025/07/21-15:07:46.051011 16fb0b000 Compacted 1@1 + 1@2 files => 0 bytes
-2025/07/21-15:07:46.051235 16fb0b000 compacted to: files[ 0 0 10 0 0 0 0 ]
-2025/07/21-15:07:46.051394 16fb0b000 Delete type=2 #11072
-2025/07/21-15:07:46.052417 16fb0b000 Delete type=2 #11076
-2025/07/21-15:07:46.052512 16fb0b000 Manual compaction at level-1 from '!adventures!ePdsymbg2msCzhdK' @ 30 : 0 .. '!adventures!zgf4K3U3eshaB1cz' @ 0 : 0; will stop at (end)
+2025/07/21-15:07:54.999967 16f1e7000 Recovering log #11073
+2025/07/21-15:07:55.000836 16f1e7000 Delete type=3 #11069
+2025/07/21-15:07:55.000893 16f1e7000 Delete type=0 #11073

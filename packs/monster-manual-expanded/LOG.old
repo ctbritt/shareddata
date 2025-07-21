@@ -1,8 +1,3 @@
-2025/07/21-14:53:31.933249 16e9db000 Recovering log #100
-2025/07/21-14:53:31.933702 16e9db000 Delete type=3 #98
-2025/07/21-14:53:31.933754 16e9db000 Delete type=0 #100
-2025/07/21-15:07:45.829562 16fb0b000 Level-0 table #105: started
-2025/07/21-15:07:45.829624 16fb0b000 Level-0 table #105: 0 bytes OK
-2025/07/21-15:07:45.829855 16fb0b000 Delete type=0 #103
-2025/07/21-15:07:45.830979 16fb0b000 Manual compaction at level-0 from '!actors!03NYJTNcx8j7amYM' @ 72057594037927935 : 1 .. '!actors.items.effects!zxYzFoQD6W2gTDBV.exa88PLGC5uzqSUR.faerieFire000000' @ 0 : 0; will stop at (end)
-2025/07/21-15:07:45.831005 16fb0b000 Manual compaction at level-1 from '!actors!03NYJTNcx8j7amYM' @ 72057594037927935 : 1 .. '!actors.items.effects!zxYzFoQD6W2gTDBV.exa88PLGC5uzqSUR.faerieFire000000' @ 0 : 0; will stop at (end)
+2025/07/21-15:07:55.788176 16e9db000 Recovering log #104
+2025/07/21-15:07:55.788698 16e9db000 Delete type=3 #102
+2025/07/21-15:07:55.788749 16e9db000 Delete type=0 #104

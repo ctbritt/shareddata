@@ -34,7 +34,7 @@
       "path": "packs/ddb-spells",
       "type": "Item",
       "system": "dnd5e",
-      "ownership": {
+      "ownership": {``
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }

@@ -1,7 +1,8 @@
 {
   "id": "shareddata",
   "title": "SharedData",
-  "version": "13.0.2",
+  "version": "#{VERSION}#",
+  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": "12",
     "verified": "13",
@@ -345,5 +346,10 @@
       },
       "system": "dnd5e"
     }
-  ]
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "README.md"
 }

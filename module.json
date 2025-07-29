@@ -1,0 +1,349 @@
+{
+  "id": "shareddata",
+  "title": "SharedData",
+  "version": "13.0.2",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Chris Allbritton",
+      "email": "callbritton@mac.com",
+      "url": "https://github.com/ctbritt",
+      "flags": {}
+    }
+  ],
+  "description": "Sharing data across worlds",
+  "packs": [
+    {
+      "name": "ddb-items",
+      "label": "DDB Items",
+      "path": "packs/ddb-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-spells",
+      "label": "DDB Spells",
+      "path": "packs/ddb-spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-races",
+      "label": "DDB Races",
+      "path": "packs/ddb-races",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-racial-traits",
+      "label": "DDB Racial Traits",
+      "path": "packs/ddb-racial-traits",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-playlists",
+      "label": "DDB Playlists",
+      "path": "packs/ddb-playlists",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-class-features",
+      "label": "DDB Class Features",
+      "path": "packs/ddb-class-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-classes",
+      "label": "DDB Classes",
+      "path": "packs/ddb-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-subclasses",
+      "label": "DDB Subclasses",
+      "path": "packs/ddb-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-backgrounds",
+      "label": "DDB Backgrounds",
+      "path": "packs/ddb-backgrounds",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-feats",
+      "label": "DDB Feats",
+      "path": "packs/ddb-feats",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-tables",
+      "label": "DDB Tables",
+      "path": "packs/ddb-tables",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-override",
+      "label": "Override",
+      "path": "packs/ddb-override",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-vehicles",
+      "label": "DDB Vehicles",
+      "path": "packs/ddb-vehicles",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-adventures",
+      "label": "DDB Adventures",
+      "path": "packs/ddb-adventures",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cpr-macros",
+      "label": "CPR-Macros",
+      "path": "packs/cpr-macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-monsters",
+      "label": "DDB Monsters",
+      "path": "packs/ddb-monsters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "monster-manual-expanded",
+      "label": "Monster Manual Expanded",
+      "path": "packs/monster-manual-expanded",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dark-sun-creature-catalog",
+      "label": "Dark Sun Creature Catalog",
+      "path": "packs/dark-sun-creature-catalog",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-summons",
+      "label": "DDB Summons",
+      "path": "packs/ddb-summons",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ddb-journals",
+      "label": "DDB Journals",
+      "path": "packs/ddb-journals",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dark-sun-character-origins",
+      "label": "Dark Sun Character Origins",
+      "path": "packs/dark-sun-character-origins",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-classes",
+      "label": "Dark Sun Classes",
+      "path": "packs/dark-sun-classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-equipment",
+      "label": "Dark Sun Equipment",
+      "path": "packs/dark-sun-equipment",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-feats",
+      "label": "Dark Sun Feats",
+      "path": "packs/dark-sun-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-harvest-items",
+      "label": "Dark Sun Harvest Items",
+      "path": "packs/dark-sun-harvest-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-items",
+      "label": "Dark Sun Items",
+      "path": "packs/dark-sun-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-journals",
+      "label": "Dark Sun Journals",
+      "path": "packs/dark-sun-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-rolltables",
+      "label": "Dark Sun Rolltables",
+      "path": "packs/dark-sun-rolltables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "dark-sun-scenes",
+      "label": "Dark Sun Scenes",
+      "path": "packs/dark-sun-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dark-sun-spells",
+      "label": "Dark Sun Spells",
+      "path": "packs/dark-sun-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
